@@ -1,0 +1,434 @@
+{
+    "bills": [
+        {     
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-11-25",
+                "text": "Became Public Law No: 118-116."
+            },
+            "laws": [
+                {
+                    "number": "118-116",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "5476",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 1077 River Road, Suite 1, in Washington Crossing, Pennsylvania, as the \"Susan C. Barnhart Post Office\".",
+            "type": "HR",
+            "updateDate": "2024-11-29",
+            "updateDateIncludingText": "2024-11-29",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5476?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-11-25",
+                "text": "Became Public Law No: 118-115."
+            },
+            "laws": [
+                {
+                    "number": "118-115",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "5464",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To name the Department of Veterans Affairs community-based outpatient clinic in Guntersville, Alabama, as the \"Colonel Ola Lee Mize Department of Veterans Affairs Clinic\".",
+            "type": "HR",
+            "updateDate": "2024-11-29",
+            "updateDateIncludingText": "2024-11-29",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5464?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-11-25",
+                "text": "Became Public Law No: 118-114."
+            },
+            "laws": [
+                {
+                    "number": "118-114",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "4190",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Restoring Benefits to Defrauded Veterans Act",
+            "type": "HR",
+            "updateDate": "2024-11-29",
+            "updateDateIncludingText": "2024-11-29",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4190?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-11-25",
+                "text": "Became Public Law No: 118-113."
+            },
+            "laws": [
+                {
+                    "number": "118-113",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "3728",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 25 Dorchester Avenue, Room 1, in Boston, Massachusetts, as the \"Caroline Chang Post Office\".",
+            "type": "HR",
+            "updateDate": "2024-11-29",
+            "updateDateIncludingText": "2024-11-29",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3728?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-11-25",
+                "text": "Became Public Law No: 118-112."
+            },
+            "laws": [
+                {
+                    "number": "118-112",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "3608",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 28081 Marguerite Parkway in Mission Viejo, California, as the \"Major Megan McClung Post Office Building\".",
+            "type": "HR",
+            "updateDate": "2024-11-29",
+            "updateDateIncludingText": "2024-11-29",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3608?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-11-25",
+                "text": "Became Public Law No: 118-111."
+            },
+            "laws": [
+                {
+                    "number": "118-111",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "1098",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 50 East Derry Road in East Derry, New Hampshire, as the \"Chief Edward B. Garone Post Office\".",
+            "type": "HR",
+            "updateDate": "2024-11-29",
+            "updateDateIncludingText": "2024-11-29",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1098?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-11-25",
+                "text": "Became Public Law No: 118-110."
+            },
+            "laws": [
+                {
+                    "number": "118-110",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "1060",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 1663 East Date Place in San Bernardino, California, as the \"Dr. Margaret B. Hill Post Office Building\".",
+            "type": "HR",
+            "updateDate": "2024-11-29",
+            "updateDateIncludingText": "2024-11-29",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1060?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-11-25",
+                "text": "Became Public Law No: 118-109."
+            },
+            "laws": [
+                {
+                    "number": "118-109",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "807",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Working Dog Commemorative Coin Act",
+            "type": "HR",
+            "updateDate": "2024-11-29",
+            "updateDateIncludingText": "2024-11-29",
+            "url": "https://api.congress.gov/v3/bill/118/hr/807?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-11-25",
+                "text": "Became Public Law No: 118-108."
+            },
+            "laws": [
+                {
+                    "number": "118-108",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "599",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 3500 West 6th Street, Suite 103 in Los Angeles, California, as the \"Dosan Ahn Chang Ho Post Office\".",
+            "type": "HR",
+            "updateDate": "2024-11-29",
+            "updateDateIncludingText": "2024-11-29",
+            "url": "https://api.congress.gov/v3/bill/118/hr/599?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-07-09",
+                "text": "Became Public Law No: 118-67."
+            },
+            "laws": [
+                {
+                    "number": "118-67",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "870",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to authorize appropriations for the United States Fire Administration and firefighter assistance grant programs, to advance the benefits of nuclear energy, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-11-26",
+            "updateDateIncludingText": "2024-11-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/870?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-11-21",
+                "text": "Became Public Law No: 118-107."
+            },
+            "laws": [
+                {
+                    "number": "118-107",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "7189",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Congenital Heart Futures Reauthorization Act of 2024",
+            "type": "HR",
+            "updateDate": "2024-11-22",
+            "updateDateIncludingText": "2024-11-22",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7189?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2023-10-06",
+                "text": "Became Public Law No: 118-19."
+            },
+            "laws": [
+                {
+                    "number": "118-19",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "2795",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title 38, United States Code, to extend and modify certain authorities and requirements relating to the Department of Veterans Affairs, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-10-31",
+            "updateDateIncludingText": "2024-10-31",
+            "url": "https://api.congress.gov/v3/bill/118/s/2795?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-07-12",
+                "text": "Became Public Law No: 118-70."
+            },
+            "laws": [
+                {
+                    "number": "118-70",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "138",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Promoting a Resolution to the Tibet-China Dispute Act",
+            "type": "S",
+            "updateDate": "2024-11-09",
+            "updateDateIncludingText": "2024-11-09",
+            "url": "https://api.congress.gov/v3/bill/118/s/138?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-10-04",
+                "text": "Became Public Law No: 118-106."
+            },
+            "laws": [
+                {
+                    "number": "118-106",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "6513",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "COCOA Act of 2024",
+            "type": "HR",
+            "updateDate": "2024-11-25",
+            "updateDateIncludingText": "2024-11-25",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6513?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-30",
+                "text": "Became Public Law No: 118-90."
+            },
+            "laws": [
+                {
+                    "number": "118-90",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "3764",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "United States Commission on International Religious Freedom Reauthorization Act of 2024",
+            "type": "S",
+            "updateDate": "2024-10-05",
+            "updateDateIncludingText": "2024-10-05",
+            "url": "https://api.congress.gov/v3/bill/118/s/3764?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-30",
+                "text": "Became Public Law No: 118-89."
+            },
+            "laws": [
+                {
+                    "number": "118-89",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "7032",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Congressional Budget Office Data Sharing Act",
+            "type": "HR",
+            "updateDate": "2024-11-13",
+            "updateDateIncludingText": "2024-11-13",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7032?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-10-02",
+                "text": "Became Public Law No: 118-105."
+            },
+            "laws": [
+                {
+                    "number": "118-105",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "2228",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Building Chips in America Act of 2023",
+            "type": "S",
+            "updateDate": "2024-11-18",
+            "updateDateIncludingText": "2024-11-18",
+            "url": "https://api.congress.gov/v3/bill/118/s/2228?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-10-02",
+                "text": "Became Public Law No: 118-104."
+            },
+            "laws": [
+                {
+                    "number": "118-104",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "1549",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Congressional Budget Office Data Access Act",
+            "type": "S",
+            "updateDate": "2024-11-12",
+            "updateDateIncludingText": "2024-11-12",
+            "url": "https://api.congress.gov/v3/bill/118/s/1549?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-05-24",
+                "text": "Became Public Law No: 118-64."
+            },
+            "laws": [
+                {
+                    "number": "118-64",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "546",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Recruit and Retain Act",
+            "type": "S",
+            "updateDate": "2024-10-03",
+            "updateDateIncludingText": "2024-10-03",
+            "url": "https://api.congress.gov/v3/bill/118/s/546?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-10-01",
+                "text": "Became Public Law No: 118-103."
+            },
+            "laws": [
+                {
+                    "number": "118-103",
+                    "type": "Public Law"
+                }
+            ],
+            "number": "4698",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "DHS Joint Task Forces Reauthorization Act of 2024",
+            "type": "S",
+            "updateDate": "2024-11-20",
+            "updateDateIncludingText": "2024-11-20",
+            "url": "https://api.congress.gov/v3/bill/118/s/4698?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 136,
+        "next": "https://api.congress.gov/v3/law/118?offset=40&limit=20&format=json",
+        "prev": "https://api.congress.gov/v3/law/118?offset=0&limit=20&format=json"
+    },
+    "request": {
+        "congress": "118",
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
