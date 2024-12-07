@@ -1,0 +1,20 @@
+Here are the latest bills from congress.
+
+Bill #
+Title
+Date YYYY-MM-DD
+Origin Chamber
+Sponsers
+
+
+Bill #
+Title
+Date YYYY-MM-DD
+Origin Chamber
+Sponsers
+
+Bill #
+Title
+Date YYYY-MM-DD
+Origin Chamber
+Sponsers
