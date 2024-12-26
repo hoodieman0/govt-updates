@@ -1,15 +1,19 @@
-﻿namespace GOV;
+﻿using GOV.Sender;
+
+namespace GOV;
 
 class Program
 {
     static async Task Main(string[] args)
     {
-        string apiKey = CredentialManager.CongressAPIKey();
-        ApiFacade getter = new ApiFacade(apiKey);
+        ApiFacade getter = new ApiFacade(CredentialManager.CongressAPIKey);
         BillRequest val = await getter.GetLatestBills();
-        string title = "";
-        string chamber = "";
-        string number = "";
-        
+        foreach (Bill x in val.Bills){
+            if (x.Number == "10"){
+                
+            }
+        }
+        MessageSender sender = new MessageSender();
+        await sender.Send();
     }
 }

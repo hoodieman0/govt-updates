@@ -1,7 +1,12 @@
 namespace GOV;
 
 static class CredentialManager {
-    public static string CongressAPIKey(){
-        return File.ReadAllText(@"C:\Users\hoodi\Desktop\Coding\govt-updates\env");
+    static StreamReader reader = new StreamReader(@"env");
+    public static string CongressAPIKey { get; }
+    public static string GmailApiKey { get; }
+    static CredentialManager(){
+        CongressAPIKey = reader.ReadLine() ?? "N/A";
+        GmailApiKey = reader.ReadLine() ?? "N/A";
+        reader.Close();
     }
 }

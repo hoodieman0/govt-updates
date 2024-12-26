@@ -26,7 +26,7 @@ class CongressAPI {
         HttpResponseMessage response = await client.GetAsync(CONGRESS_URI + apiKey);
         string? json = await response.Content.ReadAsStringAsync();
         CongressRequest? currentCongress = JsonSerializer.Deserialize<CongressRequest>(json);
-        return currentCongress?.Congress?.Number ?? throw new Exception();
+        return currentCongress?.Congress?.Number ?? throw new Exception("Couldn't get congressional number");
     }
 
     public async Task<BillRequest> GetLatestBills(){
