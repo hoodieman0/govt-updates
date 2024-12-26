@@ -1,0 +1,124 @@
+@startuml class-relations
+skinparam ClassAttributeIconSize 0
+
+class CredentialManager {
+    {static}+string CongressAPIKey
+    {static}+string GmailApiKey
+}
+
+class ApiFacade {
+    - congressAPI: CongressAPI
+    +ctor(string)
+    +Task<BillRequest> GetLatestBills()
+}
+
+class CongressAPI {
+    +ctor(string)
+    +Task<int> GetCurrentCongressNumber()
+    +Task<BillRequest> GetLatestBills()
+}
+
+class CongressRequest {
+
+}
+
+class Congress {
+
+}
+
+class Session {
+
+}
+
+class RequestInfo {
+
+}
+
+class BillRequest {
+
+}
+
+class Bill {
+
+}
+
+class LatestAction {
+
+}
+
+class Law {
+
+}
+
+class Pagination {
+
+}
+
+class MessageSender {
+    +Task Send()
+}
+
+interface IMessageStrategy {
+    +Task Send(Message)
+}
+
+class EmailStrategy {
+    +Task Send(Mesasge)
+}
+
+class DataStorage {
+    +Task GetMailingList()
+}
+
+
+class Message {
+
+}
+
+class Driver {
+    +Task Start() 
+}
+
+class Main {
+
+}
+
+CredentialManager --> ApiFacade : "Provides Congress key"
+CredentialManager --> EmailStrategy : "Provides gmail key"
+ApiFacade "1" --* "1" CongressAPI
+CongressRequest -- CongressAPI
+BillRequest -- CongressAPI
+BillRequest -- ApiFacade
+
+CongressRequest --* Congress
+CongressRequest --* Session
+CongressRequest --* RequestInfo
+
+BillRequest --* Bill
+Bill --* Law
+Bill --* LatestAction
+BillRequest --* Pagination
+BillRequest --* RequestInfo
+
+Message <-- MessageSender : Creates
+Message --> IMessageStrategy : Informs
+note "Contains all information any \nMessage Strategy will need" as N2
+Message .. N2
+
+MessageSender "1" --* "m" IMessageStrategy
+EmailStrategy -up-|> IMessageStrategy
+DataStorage -- EmailStrategy : "Get user emails"
+
+note "Takes information of Message class \nand formats it to an email" as N1
+N1 .. EmailStrategy
+
+ApiFacade ..> MessageSender : Gives Data 
+
+Driver "1" --* "1" MessageSender
+Driver "1" --* "1" ApiFacade
+note "Polls APIs every day to check for updates" as n3
+Driver .. n3
+
+Main --> Driver
+
+@enduml
