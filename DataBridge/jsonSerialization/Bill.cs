@@ -52,9 +52,9 @@ class Law {
 
 class Pagination {
     [JsonPropertyName("count")]
-    public int Count {get; set;}
+    public int? Count {get; set;}
     [JsonPropertyName("next")]
-    public string Next {get; set;} = "";
+    public string? Next {get; set;} = "";
     [JsonPropertyName("prev")]
-    public string Prev {get; set;} = "";
+    public string? Prev {get; set;} = "";
 }

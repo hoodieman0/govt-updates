@@ -1,4 +1,5 @@
-﻿using GOV.Sender;
+﻿using GOV.Messages;
+using GOV.Sender;
 
 namespace GOV;
 
@@ -8,12 +9,11 @@ class Program
     {
         ApiFacade getter = new ApiFacade(CredentialManager.CongressAPIKey);
         BillRequest val = await getter.GetLatestBills();
-        foreach (Bill x in val.Bills){
-            if (x.Number == "10"){
-                
-            }
-        }
+        SummaryRequest v1 = await getter.GetSummaryFromYesterday();
+        SummaryRequest v2 = await getter.GetSummaryFromDay(DateTime.Today.AddDays(-30));
         MessageSender sender = new MessageSender();
-        await sender.Send();
+        await sender.Send(new Message(){
+            BillInfo = val
+        });
     }
 }
