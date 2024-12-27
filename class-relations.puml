@@ -70,9 +70,13 @@ class DataStorage {
     +Task GetMailingList()
 }
 
-
 class Message {
 
+}
+
+class EmailMessage {
+    +string Title
+    +string Text
 }
 
 class Driver {
@@ -100,17 +104,13 @@ Bill --* LatestAction
 BillRequest --* Pagination
 BillRequest --* RequestInfo
 
-Message <-- MessageSender : Creates
-Message --> IMessageStrategy : Informs
-note "Contains all information any \nMessage Strategy will need" as N2
-Message .. N2
+EmailMessage --|> Message
+EmailMessage <-- MessageSender : Creates
+EmailMessage --> EmailStrategy : Informs
 
-MessageSender "1" --* "m" IMessageStrategy
-EmailStrategy -up-|> IMessageStrategy
+MessageSender "1" --* "1" EmailStrategy
+EmailStrategy --|> IMessageStrategy
 DataStorage -- EmailStrategy : "Get user emails"
-
-note "Takes information of Message class \nand formats it to an email" as N1
-N1 .. EmailStrategy
 
 ApiFacade ..> MessageSender : Gives Data 
 
