@@ -105,7 +105,7 @@ BillRequest --* Pagination
 BillRequest --* RequestInfo
 
 EmailMessage --|> Message
-EmailMessage <-- MessageSender : Creates
+EmailMessage <-- Driver : Creates
 EmailMessage --> EmailStrategy : Informs
 
 MessageSender "1" --* "1" EmailStrategy

@@ -1,0 +1,412 @@
+{
+    "pagination": {
+        "count": 106,
+        "next": "https://api.congress.gov/v3/summaries?fromDateTime=2022-04-01T00:00:00Z&toDateTime=2022-04-03T00:00:00Z&sort=updateDate asc&offset=20&limit=20&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    },
+    "summaries": [
+        {
+            "actionDate": "2022-03-24",
+            "actionDesc": "Introduced in Senate",
+            "bill": {
+                "congress": 117,
+                "number": "3914",
+                "originChamber": "Senate",
+                "originChamberCode": "S",
+                "title": "Developing and Empowering our Aspiring Leaders Act of 2022",
+                "type": "S",
+                "updateDateIncludingText": "2024-03-13",
+                "url": "https://api.congress.gov/v3/bill/117/s/3914?format=json"
+            },
+            "currentChamber": "Senate",
+            "currentChamberCode": "S",
+            "lastSummaryUpdateDate": "2022-03-31T17:52:12Z",
+            "text": " <p><strong>Developing and Empowering our Aspiring Leaders Act of 2022 </strong> </p> <p>This bill directs the Securities and Exchange Commission to revise venture capital investment regulations. Venture capital funds are exempt from certain regulations applicable to other investment firms, including those related to filings, audits, and restricted communications with investors. Under current law, non-qualifying investments&#8212;which include secondary transactions and investments in other venture capital funds&#8212;may comprise up to 20% of a venture capital fund. </p> <p>The bill allows investments acquired through secondary transactions or investments in other venture capital funds to be considered as qualifying investments for venture capital funds. However, for a private fund to qualify as a venture capital fund, the fund's investments must predominately (1) be acquired directly, or (2) be investments in other venture capital funds.</p> <p>",
+            "updateDate": "2022-04-01T03:31:16Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2021-09-22",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "5330",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "National Treasures Act of 2021",
+                "type": "HR",
+                "updateDateIncludingText": "2024-04-17",
+                "url": "https://api.congress.gov/v3/bill/117/hr/5330?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T16:35:40Z",
+            "text": " <p><strong>National Treasures Act of 2021</strong></p> <p>This bill prohibits the National Archives and Records Administration from including content warnings alongside items associated with the founding fathers of the United States.</p> <p><em>Content warning</em> is defined as any message preceding or attached to the document labeling it as dangerous, harmful, anachronistic, or any other terms implying harm associated with the documents; disparaging the documents; assuming malicious intent on the part of the authors; or discouraging potential readers from reading the documents.</p> <p><em>Founding father </em>means any individual who signed the Declaration of Independence, served as an officer in the Revolutionary War, attended the Second Continental Congress, attended the Constitutional Convention, or was granted a charter for one of the original 13 colonies of the United States.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2021-06-17",
+            "actionDesc": "Introduced in Senate",
+            "bill": {
+                "congress": 117,
+                "number": "2119",
+                "originChamber": "Senate",
+                "originChamberCode": "S",
+                "title": "Combating BDS Act of 2021",
+                "type": "S",
+                "updateDateIncludingText": "2024-04-17",
+                "url": "https://api.congress.gov/v3/bill/117/s/2119?format=json"
+            },
+            "currentChamber": "Senate",
+            "currentChamberCode": "S",
+            "lastSummaryUpdateDate": "2022-03-31T18:29:32Z",
+            "text": " <p><strong>Combating BDS Act of 2021</strong></p> <p><i></i></p> <p><i></i></p> <p><i></i></p> <p> <p><i></i></p> <p>This bill allows a state or&nbsp;local government to&nbsp;adopt measures to divest its assets from entities using boycotts, divestments, or sanctions to influence Israel's policies. Such measures shall meet various requirements, including those related to written notice and comment. It also bars lawsuits against investment companies based solely on a company's decision to divest from entities that use boycotts, divestments, or sanctions to influence Israel's policies.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2021-05-11",
+            "actionDesc": "Introduced in Senate",
+            "bill": {
+                "congress": 117,
+                "number": "1562",
+                "originChamber": "Senate",
+                "originChamberCode": "S",
+                "title": "Creating Pathways for Youth Employment Act",
+                "type": "S",
+                "updateDateIncludingText": "2024-02-16",
+                "url": "https://api.congress.gov/v3/bill/117/s/1562?format=json"
+            },
+            "currentChamber": "Senate",
+            "currentChamberCode": "S",
+            "lastSummaryUpdateDate": "2022-03-31T17:44:28Z",
+            "text": " <p><b>Creating Pathways for Youth Employment Act</b></p> <p>This bill directs the Department of Labor to award grants, on a competitive basis, to assist states, local governments, and Indian tribes or community-based organizations in providing subsidized summer and year-round employment opportunities to certain at-risk youth who are not younger than 14 or older than 24, and are unemployed.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2021-09-21",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "5313",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "Reese's Law",
+                "type": "HR",
+                "updateDateIncludingText": "2024-04-17",
+                "url": "https://api.congress.gov/v3/bill/117/hr/5313?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T17:57:07Z",
+            "text": " <p><strong>Reese's Law</strong></p> <p>This bill requires the Consumer Product Safety Commission to establish product safety standards with respect to batteries that pose an ingestion hazard (e.g., button cell or coin batteries).</p> <p>Specifically, consumer products with these batteries must include (1) a warning label instructing consumers to keep the batteries out of the reach of children, and (2) a battery compartment that prevents access to the batteries by children who are six years of age or younger.</p> <p>Additionally, such batteries, if sold separately or included separately with a product, must comply with federal child-resistant packaging regulations.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2021-11-17",
+            "actionDesc": "Introduced in Senate",
+            "bill": {
+                "congress": 117,
+                "number": "3230",
+                "originChamber": "Senate",
+                "originChamberCode": "S",
+                "title": "A bill to require the establishment of a working group to evaluate the food safety threat posed by beef imported from Brazil, and for other purposes.",
+                "type": "S",
+                "updateDateIncludingText": "2022-12-30",
+                "url": "https://api.congress.gov/v3/bill/117/s/3230?format=json"
+            },
+            "currentChamber": "Senate",
+            "currentChamberCode": "S",
+            "lastSummaryUpdateDate": "2022-03-31T17:18:41Z",
+            "text": " <p>This bill requires the Department of Agriculture (USDA) to establish a working group to (1) evaluate the food safety threat posed by beef imported from Brazil, and (2) make recommendations regarding whether or not the importation of beef from Brazil should be permitted. The bill also suspends imports of beef from Brazil until the working group submits its recommendations to USDA. </p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2021-05-11",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "3106",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "Creating Pathways for Youth Employment Act",
+                "type": "HR",
+                "updateDateIncludingText": "2024-04-17",
+                "url": "https://api.congress.gov/v3/bill/117/hr/3106?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T17:35:23Z",
+            "text": " <p><b>Creating Pathways for Youth Employment Act</b></p> <p>This bill directs the Department of Labor to award grants, on a competitive basis, to assist states, local governments, and Indian tribes or community-based organizations in providing subsidized summer and year-round employment opportunities to certain at-risk youth who are not younger than 14 or older than 24, and are unemployed.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2021-11-03",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "5851",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "Employment Freedom for All Act",
+                "type": "HR",
+                "updateDateIncludingText": "2024-02-06",
+                "url": "https://api.congress.gov/v3/bill/117/hr/5851?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T18:43:18Z",
+            "text": " <p><strong>Employment Freedom for All Act</strong></p> <p>This bill prohibits an employer from enforcing a noncompete agreement with an employee, or former employee, who has been fired for not receiving a COVID-19 vaccine.</p> <p>The Federal Trade Commission and state attorneys general are authorized to enforce this bill.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2022-03-15",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "980",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "Expressing support for the designation of the third week of March 2022 as \"National CACFP Week\".",
+                "type": "HRES",
+                "updateDateIncludingText": "2024-02-06",
+                "url": "https://api.congress.gov/v3/bill/117/hres/980?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T18:11:18Z",
+            "text": " <p>This resolution recognizes the role of the child and adult care food program (commonly referred to as CACFP) in improving the health of the country's most vulnerable children and adults in child care centers, adult day care homes, and after-school care by providing nutritious meals and snacks. It also supports the designation of National CACFP Week.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2022-03-14",
+            "actionDesc": "Introduced in Senate",
+            "bill": {
+                "congress": 117,
+                "number": "544",
+                "originChamber": "Senate",
+                "originChamberCode": "S",
+                "title": "A resolution recognizing the importance of maple syrup production to Maine and designating March 27, 2022, as \"Maine Maple Sunday\".",
+                "type": "SRES",
+                "updateDateIncludingText": "2022-09-03",
+                "url": "https://api.congress.gov/v3/bill/117/sres/544?format=json"
+            },
+            "currentChamber": "Senate",
+            "currentChamberCode": "S",
+            "lastSummaryUpdateDate": "2022-03-31T18:06:56Z",
+            "text": " <p>This resolution designates March 27, 2022, as Maine Maple Sunday. It also recognizes the contribution and importance of maple syrup producers and their families in the state of Maine.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2022-03-24",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "1001",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "Expressing support for the designation of March 24, 2022, as \"National Women in Agriculture Day\".",
+                "type": "HRES",
+                "updateDateIncludingText": "2024-02-05",
+                "url": "https://api.congress.gov/v3/bill/117/hres/1001?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T18:02:25Z",
+            "text": " <p>This resolution expresses support for the designation of National Women in Agriculture Day. It also recognizes the important role of women in agriculture as producers, educators, leaders, mentors, and more.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2022-02-15",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "6725",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "To change the address of the Marilyn Monroe Post Office, and for other purposes.",
+                "type": "HR",
+                "updateDateIncludingText": "2024-04-17",
+                "url": "https://api.congress.gov/v3/bill/117/hr/6725?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T18:16:30Z",
+            "text": " <p>This bill changes the address of the Marilyn Monroe Post Office Building in Van Nuys, California.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2022-01-19",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "6422",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "Putin Accountability Act",
+                "type": "HR",
+                "updateDateIncludingText": "2024-02-07",
+                "url": "https://api.congress.gov/v3/bill/117/hr/6422?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T16:31:22Z",
+            "text": " <p><strong>Putin Accountability Act</strong></p> <p>This bill imposes sanctions pertaining to Russia and addresses related issues.</p> <p>The President must impose sanctions, with some exceptions, on </p> <ul> <li>individuals and entities that knowingly and directly provide specialized financial messaging services to Russia's central bank (or enables access to such services);</li> <li>entities responsible for constructing, financing, or operating Nord Stream 2 (a pipeline constructed to increase Russian natural gas exports) and the corporate officers and controlling shareholders of such entities;</li> <li>individuals and entities in Russia involved in kleptocracy, Russian government activities to subvert U.S. democratic institutions and interests, or Russian government disinformation campaigns against the United States; and </li> <li>entities that are Russian state development corporations, as well as any officials of such an entity.</li> </ul> <p>The President must impose property-blocking sanctions on such individuals and entities and also visa-blocking sanctions on the individuals.</p> <p>The President must also (1) issue regulations to prohibit U.S. individuals and entities from dealing in Russian sovereign debt; and (2) issue a determination as to whether certain specified Russian individuals meet the criteria to be subject to sanctions under various authorities, including this bill.</p> <p>The Department of State must (1) designate Russia a state sponsor of terrorism, and (2) report to Congress a determination of whether Russia-affiliated armed entities in the Donbas region of Ukraine meet the criteria to be designated as foreign terrorist organizations.</p> <p>The bill prohibits expending funds to engage with Russia's government on cyber issues or arms control negotiations until certain conditions have been met.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2022-03-14",
+            "actionDesc": "Passed Senate",
+            "bill": {
+                "congress": 117,
+                "number": "544",
+                "originChamber": "Senate",
+                "originChamberCode": "S",
+                "title": "A resolution recognizing the importance of maple syrup production to Maine and designating March 27, 2022, as \"Maine Maple Sunday\".",
+                "type": "SRES",
+                "updateDateIncludingText": "2022-09-03",
+                "url": "https://api.congress.gov/v3/bill/117/sres/544?format=json"
+            },
+            "currentChamber": "Senate",
+            "currentChamberCode": "S",
+            "lastSummaryUpdateDate": "2022-03-31T18:18:52Z",
+            "text": " <p>This resolution designates March 27, 2022, as Maine Maple Sunday. It also recognizes the contribution and importance of maple syrup producers and their families in the state of Maine.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "55"
+        },
+        {
+            "actionDate": "2021-09-27",
+            "actionDesc": "Introduced in Senate",
+            "bill": {
+                "congress": 117,
+                "number": "2864",
+                "originChamber": "Senate",
+                "originChamberCode": "S",
+                "title": "A bill to require the Secretary of the Treasury to submit to Congress a report on virtual currencies and global competitiveness.",
+                "type": "S",
+                "updateDateIncludingText": "2024-08-08",
+                "url": "https://api.congress.gov/v3/bill/117/s/2864?format=json"
+            },
+            "currentChamber": "Senate",
+            "currentChamberCode": "S",
+            "lastSummaryUpdateDate": "2022-03-31T17:07:50Z",
+            "text": " <p>This bill directs the Department of the Treasury to submit a report to Congress on virtual currencies and their global use. The report must (1) assess how foreign countries use and mine virtual currencies; (2) identify, to the greatest extent practicable, the types and dollar value of virtual currency mined for FY2016-FY2022 within the United States and globally; and (3) identify vulnerabilities and opportunities with respect to virtual currency mining operations.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2022-03-18",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "992",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "Recognizing the contribution and importance of maple syrup producers and their families in the State of New Hampshire and supporting the designation of March 19 and 20, 2022, as \"New Hampshire Maple Weekend\".",
+                "type": "HRES",
+                "updateDateIncludingText": "2024-02-05",
+                "url": "https://api.congress.gov/v3/bill/117/hres/992?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T17:59:34Z",
+            "text": " <p>This resolution recognizes the contribution and importance of maple syrup producers and their families in the state of New Hampshire. It also supports the designation of New Hampshire Maple Weekend.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2022-02-04",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "6606",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "Robo COP Act",
+                "type": "HR",
+                "updateDateIncludingText": "2024-02-05",
+                "url": "https://api.congress.gov/v3/bill/117/hr/6606?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T18:22:53Z",
+            "text": " <p><STRONG>Robo Calls Off Phones Act or the Robo COP Act</STRONG></p> <p>This bill directs the Federal Trade Commission to revise the do-not-call registry provisions of the Telemarketing Sales Rule to prohibit politically-oriented recorded message telephone calls to numbers listed on that registry. </p> <p>A politically-oriented recorded message telephone call is an outbound telephone call that plays a recorded message that (1) promotes, advertises, campaigns, or solicits donations for or against a political candidate or regarding a political issue; or (2) uses a political candidate's name.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2022-02-07",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "6623",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "To designate the National Museum of the Mighty Eighth Air Force in Pooler, Georgia, as the official National Museum of the Mighty Eighth Air Force in the United States, and for other purposes.",
+                "type": "HR",
+                "updateDateIncludingText": "2022-12-30",
+                "url": "https://api.congress.gov/v3/bill/117/hr/6623?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T18:36:25Z",
+            "text": " <p>This bill designates the National Museum of the Mighty Eighth Air Force located at 175 Bourne Avenue, Pooler, Georgia (or any successor location), as the official National Museum of the Mighty Eighth Air Force of the United States.</p>  ",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2021-11-09",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "5910",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "Holding SPACs Accountable Act of 2021",
+                "type": "HR",
+                "updateDateIncludingText": "2024-02-06",
+                "url": "https://api.congress.gov/v3/bill/117/hr/5910?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T18:37:59Z",
+            "text": " <p><strong>Holding SPACs Accountable Act of 2021 </strong></p> <p>This bill revises the exclusion from safe harbor protections from liability applicable to forward-looking statements (i.e., statements that predict, project, or use future events as expectations or possibilities) made in connection with certain investments. Specifically, it excludes from the safe harbor a development stage company that has no specific business plan or purpose or has indicated that its business plan is to acquire or merge with an unidentified company, entity, or person (e.g., a special purpose acquisition company).</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        },
+        {
+            "actionDate": "2022-03-09",
+            "actionDesc": "Introduced in House",
+            "bill": {
+                "congress": 117,
+                "number": "7009",
+                "originChamber": "House",
+                "originChamberCode": "H",
+                "title": "Use Stocks, Stop Russia Act of 2022",
+                "type": "HR",
+                "updateDateIncludingText": "2024-08-08",
+                "url": "https://api.congress.gov/v3/bill/117/hr/7009?format=json"
+            },
+            "currentChamber": "House",
+            "currentChamberCode": "H",
+            "lastSummaryUpdateDate": "2022-03-31T18:56:59Z",
+            "text": " <p><b>Use Stocks, Stop Russia Act of 2022</b></p> <p>This bill places a temporary ban on (1) the importation of petroleum products from Russia, and (2) the drawdown and sale of petroleum products from the Strategic Petroleum Reserve. In addition, it approves the TransCanada Keystone Pipeline.</p> <p>Specifically, the bill requires the President to ban the importation of petroleum products from Russia until all hostile Russian troops have been withdrawn from Ukraine.</p> <p> The bill also requires the President to ban the drawdown and sale of petroleum products from the Strategic Petroleum Reserve until such troops have withdrawn.</p> <p>Finally, the bill approves the Keystone Pipeline in Phillips County, Montana for the import of oil from Canada to the United States.</p>",
+            "updateDate": "2022-04-01T03:31:17Z",
+            "versionCode": "00"
+        }
+    ]
+}
