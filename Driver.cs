@@ -1,4 +1,3 @@
-using System.Security;
 using GOV.Email;
 using GOV.Messages;
 

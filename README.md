@@ -11,6 +11,7 @@ Summaries are written by the Congressional Research Service.
 
 ## Dependencies
 * MailKit NuGet Package v4.8.0 or compatible
+* Google.Cloud.Firestore Nuget Package v3.9.0 or compatible
 * Congress.gov API key
 * Gmail account and its App Key
 

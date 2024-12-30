@@ -19,7 +19,6 @@ class EmailSender {
             client.Connect("smtp.gmail.com", 465, MailKit.Security.SecureSocketOptions.SslOnConnect);
             client.Authenticate(senderEmail, senderKey);
 
-            List<Task<string>> sendCommands = new List<Task<string>>();
             UserEntry[] mailList = await queryList;
             foreach(UserEntry user in mailList){
                 MimeMessage mailMessage = new MimeMessage();
@@ -29,12 +28,8 @@ class EmailSender {
                     Text = msg.Text
                 };
 
-                mailMessage.To.Add(new MailboxAddress(user.Name, user.Email));
-                sendCommands.Add(client.SendAsync(mailMessage));
-            }
-
-            foreach (Task<string> cmd in sendCommands){
-                await cmd;
+                mailMessage.To.Add(new MailboxAddress($"{user.FirstName} {user.LastName}", user.Email));
+                await client.SendAsync(mailMessage); // must be awaited, multithread for bulk emails
             }
             await client.DisconnectAsync(true);
         }
