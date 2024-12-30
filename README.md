@@ -1,9 +1,9 @@
 # govt-updates
 
-![License](https://img.shields.io/github/license/hoodieman0/govt-updates?style=plastic) 
-![Issues](https://img.shields.io/github/issues/hoodieman0/govt-updates?style=plastic)
-![Contributors](https://img.shields.io/github/contributors/hoodieman0/govt-updates?color=Red&style=plastic)
-![LastCommit](https://img.shields.io/github/last-commit/hoodieman0/govt-updates?style=plastic)
+![License](https://img.shields.io/github/license/hoodieman0/govt-updates)
+![Issues](https://img.shields.io/github/issues/hoodieman0/govt-updates)
+![Contributors](https://img.shields.io/github/contributors/hoodieman0/govt-updates?color=Red)
+![LastCommit](https://img.shields.io/github/last-commit/hoodieman0/govt-updates)
 
 Know Your Congress is a way to get legislative session information daily delivered to your inbox. 
 Summary and bill information is provided by congress.gov and their API.
