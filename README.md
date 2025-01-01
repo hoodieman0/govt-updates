@@ -16,4 +16,4 @@ Summaries are written by the Congressional Research Service.
 * Gmail account and its App Key
 
 ## Contributing
-See the associated GitHub issues or project to find issues to resolve.
+Pull requests welcome. See the associated GitHub issues or project to find issues to resolve.
